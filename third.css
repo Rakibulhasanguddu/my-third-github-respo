@@ -1,0 +1,17 @@
+.a{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 200px;
+
+}
+.b{
+    text-align: right;
+}
+img{
+  height: 300px;  
+  width: 200px;
+}
+.c{
+    font-size: 30px;
+}
