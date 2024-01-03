@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+.a{
+    text-align: center;
+    border: 2px solid rgb(221, 217, 217);
+    padding: 80px;
+    margin-left: 750px;
+    margin-right: 730px;
+    background-color: azure;
+}
+input{
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 1px;
+}
+input[type="button"]{
+background-color: blue;
+}
+#x{
+    background-color: rgb(75, 247, 75);
+    padding: 10px;
+}
